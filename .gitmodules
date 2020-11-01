@@ -1,0 +1,3 @@
+[submodule "ale"]
+	path = start/ale
+	url = https://github.com/dense-analysis/ale
